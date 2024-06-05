@@ -2,6 +2,8 @@ x = 10
 y = "apple"
 z = True
 
-print(x == 10)   # True
-print(y == "banana")  # False
-print(z != False)  # True
+print(x == 10)
+print(y == "banana")
+print(z != False)
+
+# this is a trial pull request
